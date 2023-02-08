@@ -1,0 +1,6 @@
+/__pycache__
+/.pytest_cache
+/env
+/tests/__pycache__
+/pep8.md
+
